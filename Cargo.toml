@@ -3,7 +3,7 @@ name = "always-on-top-windows"
 version = "0.1.0"
 edition = "2021"
 description = "A simple crate to set windows as always-on-top in Windows"
-
+repository = "https://github.com/ninetynin/always-on-top-windows"
 
 [dependencies]
 winapi = { version = "0.3", features = ["winuser"] }
